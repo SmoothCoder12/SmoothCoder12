@@ -1,6 +1,12 @@
 <h1 align="center">Hi there, I'm Pranav Sachin Kokate 👋</h1>
 <h3 align="center">A Passionate Flutter Developer from Pune, India</h3>
 
+<p align="center">
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="animated-banner"/>
+</p>
+
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-s-kokate&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-s-kokate" /> </p>
 
 <p align="left">
