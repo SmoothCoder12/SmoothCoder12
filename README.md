@@ -1,5 +1,5 @@
 <!--
-Hello Pranav! This is the latest version with a new transparent background GIF for a cleaner look.
+Hello Pranav! This version has been updated with the best possible GIF for a clean, professional look.
 Action Items:
 
 Update 'YOUR_GITHUB_USERNAME_HERE' in the stats links at the bottom.
@@ -11,7 +11,7 @@ Replace the placeholder links for your Portfolio and LinkedIn.
 <h3 align="center">A Passionate Flutter Developer & Computer Science Student</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="600"/>
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://media.giphy.com/media/I_AMiWdY9iA8g5wW5F/giphy.gif" alt="Coding GIF" width="600"/>
 </p>
 
 <div align="center">
