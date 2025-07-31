@@ -1,8 +1,8 @@
 <!-- 
-Hello Pranav! This is the definitive, polished version of your README.
+Hello Pranav! This is the latest version of your README, designed to be more dynamic and professional.
 **Action Items:**
-1. Update your GitHub username in the stats image links at the bottom (I've used 'pranav-s-kokate').
-2. Replace the placeholder links for your Portfolio, LinkedIn, and all your projects.
+1. Update 'YOUR_GITHUB_USERNAME_HERE' in the stats links at the bottom.
+2. Replace the placeholder links for your Portfolio and LinkedIn.
 -->
 
 <h1 align="center">Hi there, I'm Pranav Sachin Kokate 👋</h1>
@@ -30,11 +30,22 @@ Hello Pranav! This is the definitive, polished version of your README.
 
 ### About Me
 
-I am a **final-year Computer Science student** with a strong passion for building high-quality, cross-platform mobile applications. My expertise lies in **Flutter and Dart**, and I have hands-on experience in creating feature-rich apps from concept to deployment, backed by significant freelance experience.
+I am a **final-year Computer Science student** specializing in mobile application development. My passion is building beautiful, high-performance, cross-platform apps with **Flutter and Dart**. I have a strong foundation in software engineering principles and a proven track record of delivering high-quality work through extensive freelance projects.
 
-- 🔭 I’m currently developing **NoteMore**, an advanced notes app with a rich text editor.
-- 🌱 I’m currently exploring **advanced state management and performance optimization** in Flutter.
-- 💼 Actively seeking a challenging **Flutter Developer role** to contribute to innovative projects.
+- 💼 **Actively seeking a full-time Flutter Developer role** starting in 2026.
+- 🚀 I love turning complex problems into simple, elegant, and intuitive solutions.
+- 🌱 I'm constantly learning and currently focused on **app performance optimization** and advanced state management techniques.
+
+---
+
+### 🎯 Current Focus
+
+Right now, my main focus is on developing **NoteMore**, a feature-rich notes application designed to provide a superior user experience. Key features include:
+- A **rich text editor** with Markdown support for flexible formatting.
+- **Individual note locking** for enhanced privacy and security.
+- A clean, intuitive UI focused on efficient note organization.
+
+This project allows me to dive deep into local storage solutions, security best practices, and sophisticated UI design in Flutter.
 
 ---
 
@@ -55,44 +66,27 @@ I am a **final-year Computer Science student** with a strong passion for buildin
   &nbsp; 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
   &nbsp; 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
-  &nbsp; 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
-  &nbsp; 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-  &nbsp; 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
 </p>
-
----
-
-### 🛠️ My Pinned Projects
-
-| Project Name | Description | Tech Stack | Link |
-|---|---|---|---|
-| ✈️ **TripCraft** | A cross-platform travel planner with interactive maps, real-time data sync, and user authentication. | Flutter, Dart, Google Maps API, Firebase | [Code]('[LINK_TO_REPO]') \| [Demo]('[LINK_TO_DEMO]') |
-| 📝 **NoteMore** | A feature-rich notes app with a rich text editor, Markdown support, and individual note locking for security. | Flutter, Dart, Local Storage | [Code]('[LINK_TO_REPO]') \| [Demo]('[LINK_TO_DEMO]') |
-| 📁 **ShareFile** | A mobile app for fast, local network file sharing with automatic device discovery. | Flutter, Dart, Network Service Discovery | [Code]('[LINK_TO_REPO]') \| [Demo]('[LINK_TO_DEMO]') |
-| 🔒 **SecureScribe** | A secure file encryption/decryption web app with AES algorithm and optional Firebase cloud storage. | Python, Streamlit, Firebase | [Code]('[LINK_TO_REPO]') \| [Demo]('[LINK_TO_DEMO]') |
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-s-kokate&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-s-kokate&layout=compact&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=pranav-s-kokate&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Let's Connect!
 
 <p align="center">
-  I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team. <br/>Feel free to reach out to me!
+  I'm always excited to connect with fellow developers, discuss new technologies, or explore potential opportunities. <br/>Feel free to reach out—I'd love to chat!
   <br/><br/>
   <a href="mailto:kokatep119@gmail.com"><strong>kokatep119@gmail.com</strong></a>
 </p>
