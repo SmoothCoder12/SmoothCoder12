@@ -1,5 +1,12 @@
+<!-- 
+Hello Pranav! This is the definitive, polished version of your README.
+**Action Items:**
+1. Update your GitHub username in the stats image links at the bottom (I've used 'pranav-s-kokate').
+2. Replace the placeholder links for your Portfolio, LinkedIn, and all your projects.
+-->
+
 <h1 align="center">Hi there, I'm Pranav Sachin Kokate 👋</h1>
-<h3 align="center">A Passionate Flutter Developer from Pune, India</h3>
+<h3 align="center">A Passionate Flutter Developer & Computer Science Student</h3>
 
 <p align="center">
   <img src="http://googleusercontent.com/image_generation_content/0" alt="animated-banner"/>
@@ -23,14 +30,15 @@
 
 ### About Me
 
-- 🎓 I'm a **final-year Computer Science student** with a focus on mobile technology.
-- 🚀 I'm passionate about building high-quality, cross-platform mobile apps with **Flutter & Dart**.
-- 💼 My skills are backed by **significant freelance experience** in both app and web development.
-- 🌱 I’m currently exploring advanced concepts in **state management and app performance optimization.**
+I am a **final-year Computer Science student** with a strong passion for building high-quality, cross-platform mobile applications. My expertise lies in **Flutter and Dart**, and I have hands-on experience in creating feature-rich apps from concept to deployment, backed by significant freelance experience.
+
+- 🔭 I’m currently developing **NoteMore**, an advanced notes app with a rich text editor.
+- 🌱 I’m currently exploring **advanced state management and performance optimization** in Flutter.
+- 💼 Actively seeking a challenging **Flutter Developer role** to contribute to innovative projects.
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 My Tech Stack
 
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/></a>
@@ -58,14 +66,6 @@
 
 ---
 
-### 💼 Professional Experience Highlights
-
-- **Freelance App Developer (Flutter) | Client: Swarup Aqua:** Developed a complete water jar management system to track daily deliveries, manage inventory, and export monthly reports to Excel.
-- **Freelance Web Developer | Multiple Clients:** Designed and revamped multiple professional portfolio websites (Prabhat Electricals, The White Rabbit) focusing on responsive UI/UX and lead generation.
-- **Freelance Web Developer | BOI Para Branch:** Built a responsive landing page using Framer, implementing modern UI/UX and achieving a 40% improvement in load times.
-
----
-
 ### 🛠️ My Pinned Projects
 
 | Project Name | Description | Tech Stack | Link |
@@ -80,11 +80,11 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-s-kokate&show_icons=true&locale=en&theme=buefy&hide_border=true&count_private=true" alt="pranav-s-kokate" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-s-kokate&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-s-kokate&layout=compact&locale=en&theme=buefy&hide_border=true&count_private=true" alt="pranav-s-kokate" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-s-kokate&layout=compact&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=pranav-s-kokate&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-s-kokate" />
+  <img src="https://komarev.com/ghpvc/?username=pranav-s-kokate&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
