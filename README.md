@@ -25,7 +25,7 @@
 
 ### About Me:
 
-I am a highly motivated Computer Science student at **MIT World Peace University (CGPA: 8.62)** with a strong passion for building high-quality, cross-platform mobile applications. My expertise lies in **Flutter and Dart**, and I have hands-on experience in creating feature-rich apps from concept to deployment.
+I am a final-year Computer Science student with a strong passion for building high-quality, cross-platform mobile applications. My expertise lies in **Flutter and Dart**, and I have hands-on experience in creating feature-rich apps from concept to deployment, backed by significant freelance experience.
 
 - 🔭 I’m currently developing **NoteMore**, an advanced notes app with a rich text editor and individual note locking.
 - 👯 I’m looking to collaborate on innovative **open-source Flutter projects.**
