@@ -14,19 +14,7 @@ Replace the placeholder links for your Portfolio and LinkedIn.
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNqamY0NTMxNWd1M2l6OW5qaGRsNzBpcGV1dGhvNHl4cmtmZDZmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF" width="700"/>
 </p>
 
-<div align="center">
 
-<a href="[LINK_TO_YOUR_PORTFOLIO_WEBSITE]" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"/>
-</a>
-<a href="[LINK_TO_YOUR_LINKEDIN_PROFILE]" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="mailto:kokatep119@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</a>
-
-</div>
 
 About Me
 I am a final-year Computer Science student specializing in mobile application development. My passion is building beautiful, high-performance, cross-platform apps with Flutter and Dart. I have a strong foundation in software engineering principles and a proven track record of delivering high-quality work through extensive freelance projects.
@@ -74,11 +62,4 @@ This project allows me to dive deep into local storage solutions, security best 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SmoothCoder12&layout=compact&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 <br/>
 <img src="https://komarev.com/ghpvc/?username=SmoothCoder12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-🤝 Let's Connect!
-<p align="center">
-I'm always excited to connect with fellow developers, discuss new technologies, or explore potential opportunities. <br/>Feel free to reach out—I'd love to chat!
-<br/><br/>
-<a href="mailto:kokatep119@gmail.com"><strong>kokatep119@gmail.com</strong></a>
 </p>
