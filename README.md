@@ -69,11 +69,11 @@ This project allows me to dive deep into local storage solutions, security best 
 
 📊 GitHub Stats & Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SmoothCoder12&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SmoothCoder12&layout=compact&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 <br/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SmoothCoder12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 🤝 Let's Connect!
