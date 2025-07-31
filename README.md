@@ -11,7 +11,7 @@ Replace the placeholder links for your Portfolio and LinkedIn.
 <h3 align="center">A Passionate Flutter Developer & Computer Science Student</h3>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/I_AMiWdY9iA8g5wW5F/giphy.gif" alt="Coding GIF" width="600"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNqamY0NTMxNWd1M2l6OW5qaGRsNzBpcGV1dGhvNHl4cmtmZDZmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF" width="700"/>
 </p>
 
 <div align="center">
