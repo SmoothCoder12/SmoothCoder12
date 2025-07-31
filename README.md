@@ -1,5 +1,5 @@
-<!-- 
-Hello Pranav! This is the latest version of your README, designed to be more dynamic and professional.
+<!--
+Hello Pranav! This is the latest version with an animated GIF for a more dynamic look.
 **Action Items:**
 1. Update 'YOUR_GITHUB_USERNAME_HERE' in the stats links at the bottom.
 2. Replace the placeholder links for your Portfolio and LinkedIn.
@@ -9,7 +9,10 @@ Hello Pranav! This is the latest version of your README, designed to be more dyn
 <h3 align="center">A Passionate Flutter Developer & Computer Science Student</h3>
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="animated-banner"/>
+  <img src="https://i.imgur.com/8Qtm3bf.png" alt="Static Banner"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NscGZ5eXdxN3Z0c3d2dDl2Z3NqZ3J4bXN6bWoxd2w0Z2w0b3hpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600"/>
 </p>
 
 <div align="center">
@@ -53,19 +56,19 @@ This project allows me to dive deep into local storage solutions, security best 
 
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/></a>
-  &nbsp; 
+  &nbsp;
   <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="dart" width="45" height="45"/></a>
-  &nbsp; 
+  &nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/></a>
-  &nbsp; 
+  &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
-  &nbsp; 
+  &nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
-  &nbsp; 
+  &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
-  &nbsp; 
+  &nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
-  &nbsp; 
+  &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
 </p>
 
@@ -74,11 +77,11 @@ This project allows me to dive deep into local storage solutions, security best 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SmoothCoder12&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SmoothCoder12&layout=compact&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=SmoothCoder12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
